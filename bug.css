@@ -1,0 +1,1 @@
+The CSS code has an unusual error where the `background-image` property is not working as expected, even though the image path is correct and the image exists.  The image is not displayed in the browser. This only happens in Safari browser.
